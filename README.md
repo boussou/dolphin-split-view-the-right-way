@@ -29,3 +29,7 @@ More about that :
 - [how to change the behavior of F3 (Dolphin split view) • KDE Community Forums](https://forum.kde.org/viewtopic.php?f=223&t=151449&p=408772#p408772)
 - [Dolphin: F3 (split view) Verhalten ändern ?](https://forum.kde.org/viewtopic.php?f=224&t=111065&p=408775#p408775 "")
 - [312834 – closing split view closes the currently focused view instead of the inactive](https://bugs.kde.org/show_bug.cgi?id=312834 "")
+
+# Credits
+
+Angelo Everton Nascimento de Oliveira Júnior 
