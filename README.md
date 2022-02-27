@@ -1,8 +1,8 @@
+> Update: Deprecated, this has finally been accepted by the KDE dev team and now is part of mainstream binary executable.
+
 # Dolphin split view : The right way
 
 KDE Plasma's File Manager, **Dolphin**, patched for having normal behavior of the F3 key (the split view): The F3 key closes the opposite pane in split view instead of the focused. 
-
-> Updated: Deprecated, this has finally been accepted by the KDE dev team and now is part of mainstream binary.
 
 With this patch:  
 When you close the split view hitting F3 a second time, it is the opposite pane that disappears, <u>not the focused view</u> (which is the default behavior in Dolphin, as opposite to every other Window Manager).
